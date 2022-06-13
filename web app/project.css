@@ -1,0 +1,19 @@
+.btn{
+    color:orchid;
+    background-color: blue;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-left: 600px;
+    margin-top: 230px;
+}
+h1{
+    text-align: center;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+.btn:hover{
+    background-color: brown;
+    transition: 0.3s;
+}
